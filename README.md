@@ -1,2 +1,2 @@
-# CPU-RT
-Experiments!
+# VoxelTracing
+A Voxel Tracer
